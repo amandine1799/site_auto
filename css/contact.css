@@ -1,0 +1,21 @@
+/* Formulaire */
+
+.form-row {
+	padding-left: 30%;
+	padding-top: 1%;
+	padding-right: 6.74%;
+}
+
+.button {
+	padding-left: 45%;
+}
+
+HTML
+ {
+ overflow-x : hidden;
+ }
+
+ p {
+	 font-size: 1.5em;
+   text-align: center;
+ }
